@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background-size: 1200px 730px;
+    background-image: url("img/shopping.jpg");
+}
+form{
+    background-color:#bdd7ee;
+    width: 500px;
+    margin-left:350px;
+    margin-top:60px;
+    font-size:15px;
+    padding: 15px
+}
+.button{
+    background-color: coral;
+    font-size:30px;
+    border-bottom-left-radius: 20px;
+    height: 40px;
+    width:120px;
+    border-top-right-radius:20px ;
+    border-bottom-right-radius:20px;
+    border-top-left-radius:20px;
+    color:white;
+
+
+}
